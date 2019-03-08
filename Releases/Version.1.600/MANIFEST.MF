@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Permissions: all-permissions
+Codebase: *
+Application-Name: Update
+Main-Class: Main
+Application-Library-Allowable-Codebase: *
+Caller-Allowable-Codebase: *
+
